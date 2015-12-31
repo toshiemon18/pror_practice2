@@ -4,8 +4,7 @@ class BooksController < ApplicationController
   def show
     @book = Book.find(params[:id])
     respond_to do |fomat|
-      fomat.html
-      fomat.csv
+      fomat.json
     end
     # render :show
   end

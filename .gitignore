@@ -6,7 +6,7 @@
 
 # Ignore bundler config.
 /.bundle
-sample_sprockets/.bundle/
+prockets_sample/.bundle/*
 # Ignore the default SQLite database.
 /db/*.sqlite3
 /db/*.sqlite3-journal

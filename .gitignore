@@ -17,6 +17,9 @@ sprockets_sample/.bundle/*
 /tmp
 
 /public/assets
+<<<<<<< HEAD
 
 # Ignroe mac system file
 .DS_Store
+=======
+>>>>>>> 8d3aab9a789e8f62bc2e185a4b676e109a4b7292
